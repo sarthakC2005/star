@@ -1,2 +1,2 @@
 # star
-this is a star demo
+this is a star demo.
